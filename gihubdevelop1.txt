@@ -1,5 +1,4 @@
 new file in develop branch
 editing file
 nic
-hello
 hw r u
